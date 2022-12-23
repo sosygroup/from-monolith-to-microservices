@@ -1,0 +1,1 @@
+{"exclude_packages": [], "exclude_classes": [], "force_entity_packages": [], "force_entity_classes": [], "force_logic_packages": ["org.mybatis.jpetstore.web.actions"], "force_logic_classes": [], "force_repository_packages": [], "force_repository_classes": [], "force_repository_interface_package": ["org.mybatis.jpetstore.mapper"], "force_repository_interface_class": []}

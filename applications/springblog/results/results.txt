@@ -1,0 +1,22 @@
+Found 3 microservices
+Total coupling value: 2.0 (0.6666666666666666 avg.)
+Cohesion value: 0.9884455085572403
+
+Entities in Microservice 0:
+- PostForm
+- Post
+- Tag
+Entities in Microservice 1:
+- UserForm
+- User
+Entities in Microservice 2:
+- SettingsForm
+- BaseModel
+- Setting
+
+
+
+# of method calls crossing microservices: 2
+# of entity references crossing microservices: 2
+# of entity usages crossing microservices: 0
+# of methods persisting entities of other microservices: 0

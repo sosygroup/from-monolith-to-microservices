@@ -1,0 +1,24 @@
+Found 3 microservices
+Coupling value: 9.399999999999999 (3.133333333333333 avg.)
+Cohesion value: 0.9019676401663367
+
+Entities in Microservice 1:
+- Order
+- Sequence
+- LineItem
+
+Entities in Microservice 2:
+- Product
+- Account
+
+Entities in Microservice 3:
+- Category
+- CartItem
+- Cart
+- Item
+
+
+# of method calls crossing microservices: 6
+# of entity references crossing microservices: 2
+# of entity usages crossing microservices: 7
+# of methods persisting entities of other microservices: 0

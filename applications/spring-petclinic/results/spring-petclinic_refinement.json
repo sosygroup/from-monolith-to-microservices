@@ -1,0 +1,1 @@
+{"exclude_packages": [], "exclude_classes": ["PetValidator", "PetTypeFormatter"], "force_entity_packages": [], "force_entity_classes": [], "force_logic_packages": [], "force_logic_classes": [], "force_repository_packages": [], "force_repository_classes": [], "force_repository_interface_package": [], "force_repository_interface_class": ["VetRepository", "OwnerRepository"]}

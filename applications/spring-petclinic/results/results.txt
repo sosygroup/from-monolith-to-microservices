@@ -1,0 +1,23 @@
+Found 2 microservices
+Total coupling value: 0.0 (0.0 avg.)
+Cohesion value: 1.0
+
+Entities in Microservice 0:
+- Vet
+- Specialty
+- Vets
+- Person
+Entities in Microservice 1:
+- Pet
+- Owner
+- Visit
+- PetType
+- BaseEntity
+- NamedEntity
+
+
+
+# of method calls crossing microservices: 0
+# of entity references crossing microservices: 0
+# of entity usages crossing microservices: 0
+# of methods persisting entities of other microservices: 0

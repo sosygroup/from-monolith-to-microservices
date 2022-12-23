@@ -1,0 +1,26 @@
+[
+    {
+        "name": "spring-petclinic",
+        "source_basedir": "applications/spring-petclinic/source/",
+        "analysis_results_basedir": "applications/spring-petclinic/results/",
+        "github": "https://github.com/spring-projects/spring-petclinic"
+    },
+    {
+        "name": "jpetstore",
+        "source_basedir": "applications/jpetstore/source/",
+        "analysis_results_basedir": "applications/jpetstore/results/",
+        "github": "https://github.com/mybatis/jpetstore-6"
+    },
+    {
+        "name": "springblog",
+        "source_basedir": "applications/springblog/source/",
+        "analysis_results_basedir": "applications/springblog/results/",
+        "github": "https://github.com/Raysmond/SpringBlog"
+    },
+    {
+        "name": "cargo-tracking",
+        "source_basedir": "applications/cargo-tracking/source/",
+        "analysis_results_basedir": "applications/cargo-tracking/results/",
+        "github": "https://github.com/citerus/dddsample-core"
+    }
+]
