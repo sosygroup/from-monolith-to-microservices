@@ -1,5 +1,9 @@
 # From monolithic to microservice architecture: an automated approach based on graph clustering and combinatorial optimization
 
+Published at **2023 IEEE 20th International Conference on Software Architecture (ICSA)**
+
+Paper available at https://doi.org/10.1109/ICSA56044.2023.00013
+
 ## Authors
 This study has been designed, developed, and reported by the following investigators:
 - Gianluca Filippone (University of L'Aquila, Italy)
